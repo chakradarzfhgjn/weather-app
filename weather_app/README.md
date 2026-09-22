@@ -1,17 +1,22 @@
-# weather_app
 
-A new Flutter project.
+# 🌤️ Weather App
 
-## Getting Started
+A modern Flutter weather application providing real-time meteorological forecasts, hourly updates, and detailed weather metrics using the OpenWeatherMap API.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+* **Current Weather Card**: Displays real-time temperature, condition indicators, and icons.
+* **Hourly Forecast**: Scrollable timeline highlighting upcoming temperature trends.
+* **Additional Metrics**: Humidity, wind speed, pressure, and visibility readouts.
+* **Pull-to-Refresh**: Easily fetch the latest weather data on demand.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
+* **Framework**: [Flutter](https://flutter.dev/)
+* **Language**: [Dart](https://dart.dev/)
+* **API**: OpenWeatherMap API
+* **HTTP Client**: `http` package
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+* Flutter SDK
+* OpenWeatherMap API Key
